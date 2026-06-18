@@ -1,0 +1,32 @@
+# AI extra rules
+# Target policy group: 🤖 AI服务
+
+payload:
+  # ChatGPT / OpenAI web and assets
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,oaidalleapiprodscus.blob.core.windows.net
+  - DOMAIN-SUFFIX,auth0.openai.com
+  - DOMAIN-SUFFIX,cdn.openai.com
+  - DOMAIN-SUFFIX,files.oaiusercontent.com
+  - DOMAIN-SUFFIX,ios.chat.openai.com
+  - DOMAIN-SUFFIX,ws.chatgpt.com
+
+  # Claude / Anthropic
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,console.anthropic.com
+
+  # Google AI / Gemini
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+  # Common AI tools
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor.sh
