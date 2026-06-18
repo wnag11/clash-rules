@@ -1,0 +1,8 @@
+# Initial generated file. GitHub Action will update it.
+payload:
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,investing.com
+  - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,glassnode.com
+  - DOMAIN-SUFFIX,defillama.com
