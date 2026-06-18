@@ -1,0 +1,20 @@
+# Custom rule set: X / Twitter
+# Target policy group: 🐦 X服务
+# Format: Clash / Mihomo rule-provider payload
+
+payload:
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,periscope.tv
+
+  # X/Twitter media and API subdomains
+  - DOMAIN-SUFFIX,api.x.com
+  - DOMAIN-SUFFIX,api.twitter.com
+  - DOMAIN-SUFFIX,abs.twimg.com
+  - DOMAIN-SUFFIX,pbs.twimg.com
+  - DOMAIN-SUFFIX,video.twimg.com
+  - DOMAIN-SUFFIX,ton.twimg.com
+  - DOMAIN-SUFFIX,syndication.twitter.com
