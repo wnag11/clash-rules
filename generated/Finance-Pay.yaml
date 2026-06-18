@@ -1,0 +1,9 @@
+# Initial generated file. GitHub Action will update it.
+payload:
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,wise.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,coinbase.com
