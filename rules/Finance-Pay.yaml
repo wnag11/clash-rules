@@ -1,0 +1,13 @@
+# Financial payment services
+# Target policy group: 💳 金融支付
+
+payload:
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,wise.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.us
+  - DOMAIN-SUFFIX,kraken.com
