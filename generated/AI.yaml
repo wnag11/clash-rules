@@ -1,0 +1,12 @@
+# Initial generated file. GitHub Action will update it.
+payload:
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,files.oaiusercontent.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,openrouter.ai
