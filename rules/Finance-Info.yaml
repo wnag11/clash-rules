@@ -1,0 +1,10 @@
+# Financial information and market data
+# Target policy group: 📈 金融资讯
+
+payload:
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,investing.com
+  - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,glassnode.com
+  - DOMAIN-SUFFIX,defillama.com
